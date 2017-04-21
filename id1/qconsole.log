@@ -1,0 +1,150 @@
+Console initialized.
+UDP Initialized
+Exe: 15:49:30 Feb  6 2012
+ 8.0 megabyte heap
+1162k surface cache
+
+Sound Initialization
+Sound sampling rate: 11025
+CDAudio_Init: No CD in drive.
+CDAudio_Init: CD contains no audio tracks.
+CD Audio Initialized.
+execing quake.rc
+execing default.cfg
+Unknown command "joystick"
+Unknown command "gl_subdivide_size"
+execing config.cfg
+couldn't exec autoexec.cfg
+'sound' is not a field
+'sound' is not a field
+'sound' is not a field
+1 demo(s) in loop
+
+VERSION 1.09 SERVER (44495 CRC)
+
+
+
+The Center of Nowhere
+Couldn't load sound/ambience/fire1.wav
+Couldn't load sound/ambience/fire1.wav
+Couldn't load sound/ambience/fire1.wav
+Couldn't load sound/ambience/fire1.wav
+Couldn't load sound/ambience/fire1.wav
+Switching to interpreter 'id'
+UDP (IPv4) Initialized
+32.0 megabyte heap
+
+Sound Initialization
+Using PCM default.
+ALSA: Failure to set noninterleaved PCM access. Invalid argument
+Note: Interleaved is not supported
+S_Startup: S_O_Init failed.
+Mus_OggInit: open of file "tracklist.cfg" failed
+CD Audio Initialized
+
+Version 0.5.5-SVN (build 4455)
+
+ÄÅÅÇ QuakeForge initialized ÄÅÅÇ
+couldn't exec autoexec.cfg
+'sound' is not a field
+1 demo(s) in loop
+
+Version 1.09 server (12280 CRC)
+
+
+
+Landmines Museum
+player entered the game
+S_LocalSound: can't cache misc/menu2.wav
+S_LocalSound: can't cache misc/menu1.wav
+S_LocalSound: can't cache misc/menu1.wav
+S_LocalSound: can't cache misc/menu1.wav
+S_LocalSound: can't cache misc/menu2.wav
+S_LocalSound: can't cache misc/menu2.wav
+S_LocalSound: can't cache misc/menu2.wav
+S_LocalSound: can't cache misc/menu1.wav
+
+
+1 possible command:
+cd 
+
+1 possible variable:
+cd_plugin 
+
+
+
+1 possible command:
+cd 
+
+1 possible variable:
+cd_plugin 
+
+
+
+15 possible commands: 
+cache_flush   cache_print   cache_profile cd            centerview    changelevel   
+chase         chase_off     chase_on      clear         cmdlist       color         
+condump       connect       cvarlist      
+
+43 possible variables: 
+cd_plugin         chase_active      chase_back        chase_right       chase_up          
+cl_anglespeedkey  cl_backspeed      cl_bob            cl_bobcycle       cl_bobup          
+cl_conmode        cl_crossx         cl_crossy         cl_cshift_bonus   cl_cshift_content 
+cl_cshift_damage  cl_cshift_powerup cl_forwardspeed   cl_movespeedkey   cl_nolerp         
+cl_pitchspeed     cl_quakerc        cl_rollangle      cl_rollspeed      cl_shownet        
+cl_sidespeed      cl_upspeed        cl_verstring      cl_writecfg       cl_yawspeed       
+cmd_warncmd       cmdline           con_alpha         con_height        con_interpreter   
+con_notifytime    con_size          con_speed         con_width         confirm_quit      
+coop              crosshair         crosshaircolor    
+
+
+
+2 possible commands: 
+gl_texturemode god            
+
+40 possible variables: 
+gamecfg                 gl_affinemodels         gl_alias_render_tri     
+gl_anisotropy           gl_clear                gl_conspin              
+gl_constretch           gl_dlight_polyblend     gl_dlight_smooth        
+gl_driver               gl_fb_bmodels           gl_fb_models            
+gl_finish               gl_keeptjunctions       gl_lerp_anim            
+gl_lightmap_align       gl_lightmap_subimage    gl_max_size             
+gl_mesh_cache           gl_multitexture         gl_nocolors             
+gl_overbright           gl_particle_mip         gl_particle_size        
+gl_picmip               gl_playermip            gl_reporttjunctions     
+gl_screenshot_byte_swap gl_sky_clip             gl_sky_debug            
+gl_sky_divide           gl_sky_multipass        gl_subdivide_size       
+gl_tessellate           gl_texsort              gl_textures_bgra        
+gl_textures_external    gl_triplebuffer         gl_vaelements_max       
+gl_vector_light         
+
+
+
+2 possible commands: 
+gl_texturemode god            
+
+40 possible variables: 
+gamecfg                 gl_affinemodels         gl_alias_render_tri     
+gl_anisotropy           gl_clear                gl_conspin              
+gl_constretch           gl_dlight_polyblend     gl_dlight_smooth        
+gl_driver               gl_fb_bmodels           gl_fb_models            
+gl_finish               gl_keeptjunctions       gl_lerp_anim            
+gl_lightmap_align       gl_lightmap_subimage    gl_max_size             
+gl_mesh_cache           gl_multitexture         gl_nocolors             
+gl_overbright           gl_particle_mip         gl_particle_size        
+gl_picmip               gl_playermip            gl_reporttjunctions     
+gl_screenshot_byte_swap gl_sky_clip             gl_sky_debug            
+gl_sky_divide           gl_sky_multipass        gl_subdivide_size       
+gl_tessellate           gl_texsort              gl_textures_bgra        
+gl_textures_external    gl_triplebuffer         gl_vaelements_max       
+gl_vector_light         
+
+S_LocalSound: can't cache misc/menu2.wav
+S_LocalSound: can't cache misc/menu2.wav
+BOOM!!S_LocalSound: can't cache misc/menu2.wav
+S_LocalSound: can't cache misc/menu1.wav
+S_LocalSound: can't cache misc/menu1.wav
+S_LocalSound: can't cache misc/menu1.wav
+S_LocalSound: can't cache misc/menu1.wav
+S_LocalSound: can't cache misc/menu2.wav
+Client player removed
